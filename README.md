@@ -1,5 +1,7 @@
 # FactorioModsDownloader
 
+Automatically download mods to factorio mosd folder, can exctract zips, change downlaod directory 
+
 ### Args:
 
 \<unzip> \<customPath>
