@@ -11,6 +11,7 @@ Automatically download mods to factorio mosd folder, can exctract zips, change d
 **unzip**
 
 +unzip - unzip mods?  yes
+
 -unzip - unzip mods?  no (default)
 
 **customPath**
